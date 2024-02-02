@@ -2,7 +2,7 @@ import React from 'react'
 
 function Story() {
   return (
-    <div>Story</div>
+    <div>Need to read lot of storys</div>
   )
 }
 
