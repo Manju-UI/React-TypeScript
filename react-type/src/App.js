@@ -4,6 +4,7 @@ import Help from "./Components/Help/Help";
 import Main from "./Components/Main/Main";
 
 import Cards from './Components/cards/Cards';
+import Scroller from "./Components/scroller/Scroller";
 
 function App() {
 
@@ -12,6 +13,8 @@ function App() {
     <Cards/>
     <Footer/>
     <Help/>
+    <Scroller/>
+
     </div>
 }
 
