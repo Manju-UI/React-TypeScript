@@ -5,6 +5,7 @@ import Main from "./Components/Main/Main";
 
 import Cards from './Components/cards/Cards';
 import Scroller from "./Components/scroller/Scroller";
+import Story from "./Components/story/Story";
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
     <Footer/>
     <Help/>
     <Scroller/>
+    <Story/>
 
     </div>
 }
